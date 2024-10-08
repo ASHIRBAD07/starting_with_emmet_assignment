@@ -1,0 +1,6 @@
+Q1.What is Emmet?
+Ans:  Emmet is a web development toolkit that enhances productivity by allowing developers to use shorthand abbreviations to quickly generate HTML and CSS code. It integrates with popular code editors and expands short snippets into complete code structures, speeding up the coding process and reducing repetitive tasks.
+
+
+Q2.What are the advantages of using Emmet?
+Ans: Emmet speeds up HTML and CSS coding by using shorthand abbreviations that expand into full code structures. It reduces repetitive tasks, works across various code editors, and allows for customizable snippets. Emmet improves efficiency, reduces errors, and helps maintain clean, readable code—ideal for web developers looking to streamline their workflow.
